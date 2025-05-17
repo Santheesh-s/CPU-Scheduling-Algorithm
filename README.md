@@ -51,3 +51,7 @@ Here are a few other ways you can deploy this template:
 ## Support
 
 If you get stuck along the way, get help in our [support forums](https://answers.netlify.com/).
+
+
+if you wanna chect it out 
+hosted in https://cpu-scheduling-algorithms.netlify.app
